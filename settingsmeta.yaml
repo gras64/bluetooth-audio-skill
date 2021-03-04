@@ -1,22 +1,10 @@
 
 skillMetadata:
   sections:
-    - name: Options << Name of section
+    - name: Standart Bluetooth Device
       fields:
-        - name: internal_python_variable_name
+        - name: known.device
           type: text
-          label: Setting Friendly Display Name
+          label: 00:AA:BB:CC:DD:EE
           value: ""
-          placeholder: demo prompt in the input box
-    - name: Login << Name of another section
-      fields:
-        - type: label
-          label: Just a little bit of extra info for the user to understand following settings
-        - name: username
-          type: text
-          label: Username
-          value: ""
-        - name: password
-          type: password
-          label: Password
-          value: ""
+          placeholder: "00:AA:BB:CC:DD:EE"

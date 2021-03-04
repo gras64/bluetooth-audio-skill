@@ -4,9 +4,10 @@
 #
 # To use this file, uncomment the lines you need, and fill in the appropriate information.
 #
-# dependencies:
+ dependencies:
 #   # Pip dependencies on PyPI
-#   python:
+   python:
+      - pybluez2
 #     - requests
 #     - gensim
 #
