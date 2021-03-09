@@ -1,0 +1,18 @@
+{
+    "skillMetadata": {
+        "sections": [
+            {
+                "name": "Standart Bluetooth Device",
+                "fields": [
+                    {
+                        "name": "known.device",
+                        "type": "text",
+                        "label": "00:AA:BB:CC:DD:EE",
+                        "value": "",
+                        "placeholder": "00:AA:BB:CC:DD:EE"  
+                    }
+                ]
+             }
+        ]
+    }
+}

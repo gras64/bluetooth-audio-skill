@@ -8,6 +8,7 @@
 #   # Pip dependencies on PyPI
    python:
       - pybluez2
+      - BT-Manager
 #     - requests
 #     - gensim
 #
